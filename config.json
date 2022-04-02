@@ -1,0 +1,19 @@
+{
+    "token": "process.env.TOKEN",
+    "prefix": "$",
+    "status": "Dev by YESSS",
+    "suburl": {
+        },
+    "embed-color-text": "YAML",
+    "embed-color": 6712972,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "non",
+        "avis": "oui",
+        "localisation": "non",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "non",
+        "etat": "non"
+    }
+}
